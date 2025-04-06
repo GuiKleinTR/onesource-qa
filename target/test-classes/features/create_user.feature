@@ -11,3 +11,4 @@ Feature: Onesource QA
 Examples:
     | id               | name       | email                                | password   | usertype      |
     | klein_test_123   | John Doe   | guilherme.klein@thomsonreuters.com   | Pass@1234  | Regular User  |
+    | klein_test_456   | John Tee   | guilherme.klein@thomsonreuters.com   | Pass@1234  | Regular User  |
